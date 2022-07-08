@@ -1,5 +1,5 @@
 #!/bin/bash
-echo " this is sumeet"
+echo " this is sumeet kulkarni"
 echo "Enter the file name"
 read name
 count=1
