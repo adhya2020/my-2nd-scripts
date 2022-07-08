@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hello"
+echo "hellooo"
 echo "Enter the number to find Factorial"
 read num
 result=1
